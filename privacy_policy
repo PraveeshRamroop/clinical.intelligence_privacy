@@ -2,48 +2,40 @@
 
 ## Introduction
 
-Our privacy policy explains what information we collect through the Clinical Intelligence application and browser extension, how we use it, and what choices you have.
+This Privacy Policy explains what information we collect through the Clinical Intelligence application and browser extension, how we use it, and how we protect it.
 
-We built Clinical Intelligence as a clinical follow-up system for healthcare providers. The service is intended to support medical consultation workflows and ongoing patient follow-up.
+Clinical Intelligence is a service designed to support healthcare professionals with clinical workflows and patient communication.
 
-By using our service, you agree to the collection and use of information in accordance with this policy. The personal information we collect is used to provide and improve the service. We do not sell your information or use it for advertising.
+The information we collect is used to provide and improve the service. We do not sell personal information or use it for advertising.
 
 ## Information Collection and Use
 
-To provide the Clinical Intelligence service, we may collect personally identifiable information including, but not limited to:
+To provide the service, we may collect information including:
 
 * Patient name
 * Phone number
 * Date of birth
 * Gender
-* Symptoms, diagnoses, and treatment information
-* Follow-up responses
+* Medical and clinical information
+* Information provided during patient communication
 
-This information is stored securely and used exclusively to provide clinical follow-up, communication, and related functionality.
+This information is used to provide the functionality of the Clinical Intelligence service and related communication features.
 
 ## Chrome Extension and EHR Data
 
-Our Clinical Intelligence EHR Capture browser extension allows healthcare professionals to capture relevant clinical information from an EHR page for use within the Clinical Intelligence service.
+The Clinical Intelligence EHR Capture browser extension allows healthcare professionals to capture relevant information from an EHR page for use within the Clinical Intelligence service.
 
-The extension only accesses the active EHR page when the clinician explicitly initiates a capture. The clinician remains in control of when information is captured. The extension does not continuously monitor EHR pages or automatically capture information in the background.
+The extension accesses the active EHR page only when the clinician explicitly initiates a capture. The clinician remains in control of when information is captured. The extension does not continuously monitor EHR pages or automatically capture information in the background.
 
-Captured information may include clinical information displayed on the EHR page, such as patient details, consultation notes, symptoms, diagnoses, and treatment information. This information is transmitted to the Clinical Intelligence service for processing, including AI-assisted extraction and organization, and for providing clinical follow-up functionality.
+Captured information may include patient details and clinical information displayed on the EHR page. Captured information is securely transmitted to the Clinical Intelligence service for processing and to provide the requested functionality.
 
-The captured information is used only to provide the functionality of the Clinical Intelligence service and is not sold or used for advertising.
+The captured information is not sold or used for advertising.
 
-## WhatsApp Communication
+## Communication
 
-We use the WhatsApp Cloud API to send follow-up messages to patients after a medical consultation.
+The Clinical Intelligence service may use third-party communication services, including the WhatsApp Cloud API, to communicate with patients as part of the service.
 
-These messages may include:
-
-* Post-consultation health check-ins
-* Follow-up reminders
-* Clinical status questions
-
-Patients may respond using interactive WhatsApp buttons or messages. These responses are stored in our system to support clinical tracking and patient care.
-
-Patients only receive WhatsApp messages after a consultation with a healthcare provider and as part of follow-up care.
+Information provided through these communications may be processed and stored by Clinical Intelligence to provide the service.
 
 ## Data Storage
 
@@ -55,22 +47,24 @@ We may use third-party companies and individuals to:
 
 * Provide and maintain the service
 * Process and store data
-* Support AI-assisted processing
-* Send WhatsApp messages via the WhatsApp Cloud API
+* Support application functionality
+* Provide communication services
 * Monitor system performance
 
-These providers process data on our behalf and are contractually or otherwise required to protect your data and are not permitted to use it for purposes unrelated to providing their services.
+These providers process information on our behalf and are required to protect the information and use it only for purposes related to providing their services.
 
 ## Security
 
-We value your trust in providing personal information and use commercially acceptable means to protect it. However, no method of transmission over the internet or electronic storage is 100% secure, and we cannot guarantee absolute security.
+We use commercially reasonable measures to protect personal information against unauthorized access, alteration, disclosure, or destruction.
+
+However, no method of transmission over the internet or electronic storage is completely secure, and we cannot guarantee absolute security.
 
 ## Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time. Updates will be posted on this page and take effect immediately upon posting.
+We may update this Privacy Policy from time to time. Updates will be posted on this page and take effect upon posting.
 
 ## Contact Us
 
 If you have any questions about this Privacy Policy, you can contact us at:
 
-Email: praveeshramroop@gmail.com
+Email: [praveeshramroop@gmail.com](mailto:praveeshramroop@gmail.com)
